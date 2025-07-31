@@ -294,7 +294,7 @@
     },
     branding: {
       logo: "https://cdn.jsdelivr.net/gh/realwirtschaft/realwirtschaft-assets/realwirtschaft-logo.png",
-      name: "realwirtschaft",
+      name: "Marvin von realwirtschaft",
       welcomeText: "Hi 👋, wie können wir Ihnen helfen?",
       responseTimeText: "Wir melden uns so schnell wir können.",
       poweredBy: {

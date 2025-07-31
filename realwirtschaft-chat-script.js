@@ -73,6 +73,7 @@
         }
 
         .n8n-chat-widget .brand-header span {
+            font-family: 'Playfair Display', serif;
             font-size: 18px;
             font-weight: 500;
             color: var(--chat--color-font);
@@ -273,11 +274,11 @@
         }
     `;
 
-  // Load Geist font
+  // Load Playfair Display font
   const fontLink = document.createElement("link");
   fontLink.rel = "stylesheet";
   fontLink.href =
-    "https://cdn.jsdelivr.net/npm/geist@1.0.0/dist/fonts/geist-sans/style.css";
+    "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap";
   document.head.appendChild(fontLink);
 
   // Inject styles
